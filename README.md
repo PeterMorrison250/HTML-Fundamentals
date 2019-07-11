@@ -1,2 +1,2 @@
 # HTML-Fundamentals
-Pluralsight Matt Milner
+Pluralsight - Matt Milner
